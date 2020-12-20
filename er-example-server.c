@@ -1,4 +1,4 @@
-//By Jonathan Williams (z5162987)
+//By Jonathan Williams
 //res-rssi resource responds with the rssi of the request
 #include <stdio.h>
 #include <stdlib.h>
